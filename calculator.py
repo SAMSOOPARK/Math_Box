@@ -1,4 +1,5 @@
 # 기본 계산기
+# add, sub, mult..
 def add(a, b):
     return a+b
 
