@@ -11,6 +11,3 @@ def multiply(a, b):
 
 def divide_free(a, b):
     return a/b
-
-def squrre(a):
-    return a*b    
